@@ -1,0 +1,40 @@
+.services {
+    padding: 0 3rem 0 3rem;
+    display: flex;
+    height: 90vh;
+    margin-bottom: 13rem;
+    margin-top: 9rem;
+}
+
+.awsom {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.awsom>:nth-child(1) {
+    color: var(--black);
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.awsom>:nth-child(2) {
+    color: var(--orange);
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.awsom>:nth-child(3) {
+    color: var(--grey);
+    font-size: 14px;
+    margin-top: 1rem;
+}
+
+
+
+.s-button {
+    width: 8rem;
+    height: 2rem;
+    margin-top: 1rem;
+
+}
